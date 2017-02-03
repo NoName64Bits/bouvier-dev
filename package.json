@@ -1,0 +1,22 @@
+{
+  "name": "bouvier-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoName64Bits/bouvier-dev.git"
+  },
+  "author": "Ciobanu Laurentiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoName64Bits/bouvier-dev/issues"
+  },
+  "homepage": "https://github.com/NoName64Bits/bouvier-dev#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
